@@ -1,0 +1,1 @@
+BASE_URL = "https://directory.ccnecommunity.org/reports/rptAccreditedPrograms_New.asp?sort=institution"
